@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+header{
+    color: white;
+    font-size: 15pt;
+    font-family: verdana;
+   text-align: center;
+}
+section{
+
+     font-family: verdana;
+     background-color: antiquewhite;
+     margin: auto;
+     width: 500px;
+     
+     padding-top: 15px;
+     padding-left: 15px;
+    border: 2px ;
+    border-radius: 30px;
+    box-shadow: 2px 2px 2px 2px #298db4e1;
+}
+footer{
+    text-align: center;
+    color: white;
+    font-family: Verdana;
+
+}
+#res{
+       margin-top: 30px;
+    padding-top: 5px;
+}
+#mostrar{
+
+    margin-left: 30px;
+}
+#res2{
+
+    width: 100px;
+    
+    margin-bottom: 5px;
+}
